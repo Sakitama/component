@@ -1,0 +1,25 @@
+/*折线图组件样式*/
+.h5_component_polygonalLine canvas {
+	position: absolute;
+	left: 0;
+	top:0;
+	width: 100%;
+	height: 100%;
+}
+.h5_component_polygonalLine .text {
+	position: absolute;
+	font-size: 12px;
+	text-align: center;
+	bottom: -20px;
+	height: 20px;
+	opacity: 0;
+	line-height: 20px;
+	transform: scale(.8);
+}
+.h5_component_polygonalLine_load .text {
+	opacity: 1;
+}
+.h5_component_polygonalLine_leave .text {
+	opacity: 0;
+}
+

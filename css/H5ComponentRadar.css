@@ -1,0 +1,19 @@
+/*雷达图组件样式*/
+.h5_component_radar canvas {
+	position: absolute;
+	left: 0;
+	top:0;
+	width: 100%;
+	height: 100%;
+}
+.h5_component_radar .text {
+	position: absolute;
+	opacity: 0;
+	font-size: 12px;
+}
+.h5_component_radar_load .text {
+	opacity: 1;
+}
+.h5_component_radar_leave .text {
+	opacity: 0;
+}
