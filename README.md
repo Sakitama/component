@@ -26,7 +26,7 @@ H5ComponentRing.js，环图组件
 
 首页
 
-![](/demo/1.gif)
+![](demo/1.gif)
 
 图文页
 
