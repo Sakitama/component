@@ -26,7 +26,7 @@ H5ComponentRing.js，环图组件
 
 首页
 
-![](demo/1.gif)
+![](/demo/1.gif)
 
 图文页
 
@@ -36,34 +36,34 @@ H5ComponentRing.js，环图组件
 
 ![](/demo/3.gif)
 
-第二页
+饼图
 
-![](/demo/1.gif)
+![](/demo/4.gif)
 
-第二页
+水平柱图
 
-![](/demo/1.gif)
+![](/demo/5.gif)
 
-第二页
+垂直柱图
 
-![](/demo/1.gif)
+![](/demo/6.gif)
 
-第二页
+雷达图
 
-![](/demo/1.gif)
+![](/demo/7.gif)
 
-第二页
+环图
 
-![](/demo/1.gif)
+![](/demo/8.gif)
 
-第二页
+散点图
 
-![](/demo/1.gif)
+![](/demo/9.gif)
 
-第二页
+尾页
 
-![](/demo/1.gif)
+![](/demo/10.gif)
 
-第二页
+点击返回首页
 
-![](/demo/1.gif)
+![](/demo/11.gif)
